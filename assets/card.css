@@ -1,0 +1,45 @@
+.blog-card{
+  background: #fffff;
+  width: 350px;
+  height: 370px;
+  position: relative;
+  margin:auto;
+  border-radius: 10px;
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, .5);
+  text-align: center;
+}
+
+.title-content{
+  text-align: center;
+  margin: 20px 0 0 0;
+  position: absolute;
+  z-index: 20;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+h3{
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: #2383bb;
+  font-family: 'Barlow', sans-serif;
+  margin-bottom: 0;
+  width: 300px;
+  margin-left: 25px;
+}
+hr{
+  width: 100px;
+  height: 3px;
+  margin: 20px auto;
+  border: 0;
+  background: #ffa800;
+}
+.details{
+  width: 300px;
+  margin: 0 auto;
+  color: #293033;
+  font-family: 'Barlow', serif;
+  font-size: 1rem;
+}
+
